@@ -170,7 +170,7 @@ The application provides:
 
 Try the live application here:
 
-👉[ **https://your-app-name.streamlit.app**](https://creditcardfrauddetection-quxqesnq47yrlcejumuqzl.streamlit.app/)
+👉[ **Credit_Card_Fraud_Detection**](https://creditcardfrauddetection-quxqesnq47yrlcejumuqzl.streamlit.app/)
 
 ## 📂 Sample CSV
 
