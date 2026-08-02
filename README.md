@@ -111,7 +111,7 @@ Credit_Card_Fraud_Detection/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/memoonaabbas/Credit_Card_Fraud_Detection.git
+   [git clone https://github.com/memoonaabbas/Credit_Card_Fraud_Detection.git](https://github.com/memoonaabbas/Credit_Card_Fraud_Detection)
    cd Credit_Card_Fraud_Detection
    ```
 
@@ -166,6 +166,11 @@ The application provides:
 - Prediction Summary
 - Interactive Charts
 - Downloadable Prediction Report
+  ## 🚀 Live Demo
+
+Try the live application here:
+
+👉[ **https://your-app-name.streamlit.app**](https://creditcardfrauddetection-quxqesnq47yrlcejumuqzl.streamlit.app/)
 
 ## 📂 Sample CSV
 
